@@ -1,5 +1,5 @@
 # Ex.08 Design of Interactive Image Gallery
-## Date:
+## Date:12.4.25
 
 ## AIM:
 To design a web application for an inteactive image gallery with minimum five images.
@@ -179,8 +179,8 @@ index.html
 ![WhatsApp Image 2025-04-12 at 11 31 09_6940e4a6](https://github.com/user-attachments/assets/0233d14e-bbab-49aa-83ec-66bbe2b5329c)
 
 
-![Uploading WhatsApp Image 2025-04-12 at 11.31.23_13115506.jpg…]()
-
+![WhatsApp Image 2025-04-12 at 11 31 23_13115506](https://github.com/user-attachments/assets/91b310ee-0a8d-4e25-9dbc-2a732456a2d9)
 
 ## RESULT:
+
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
